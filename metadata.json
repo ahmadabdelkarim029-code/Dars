@@ -1,0 +1,6 @@
+{
+  "name": "حضور الطلاب",
+  "description": "تطبيق متكامل لتسجيل حضور وغياب الطلاب تلقائيًا ومسح رمز الاستجابة السريعة (QR Code) مع توليد تقارير شاملة والعمل بالكامل بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
